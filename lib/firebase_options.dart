@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBVjuI-ZrsajaQpvlX1suVlJIR6af06CJY',
-    appId: '1:560814614559:android:8afe32fe55e2f0f0690d2a',
+    apiKey: 'apikey',
+    appId: 'appid',
     messagingSenderId: '560814614559',
     projectId: 'crimealertapp-97954',
     databaseURL: 'https://crimealertapp-97954-default-rtdb.firebaseio.com',
